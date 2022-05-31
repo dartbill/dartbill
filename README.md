@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-
-  <iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+  <img src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e47362wi6805sq97vpoalar3zg5k1kulh64519p9f1r&rid=giphy.gif&ct=s" width="500"/>
 </div>
 
 <div id = "body" align = "center">
