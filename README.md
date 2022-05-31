@@ -3,7 +3,7 @@
 </div>
 
 <div id = "body" align = "center">
-### Hi there 👋 My name is Billie Dartnell
+<h1> Hi there 👋 My name is Billie Dartnell
 
 <!--
 
