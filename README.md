@@ -3,7 +3,7 @@
 </div>
 
 <div id = "body" align = "center">
-<h1> Hi there 👋 My name is Billie Dartnell
+<h1> Hi there 👋 My name is Billie Dartnell </h1>
 
 <!--
 
@@ -17,8 +17,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 I am currently on a coding bootcamp learning about html, javascript react and python
-
+</p>
 
 ## Languages & Tools I have used
 
